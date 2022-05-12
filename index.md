@@ -8,6 +8,7 @@ You can use the [editor on GitHub](https://github.com/ZimingHuangZH/ziminghuangz
 
 [wtite-up preview](https://htmlpreview.github.io/?https://github.com/AguilarMike/QuantFinance-glossaRy/blob/main/QuantFinance-glossaRy.html)
 
+[write-up inside](https://github.com/ZimingHuangZH/ziminghuangzh.io/blob/gh-pages/QuantFinance-glossaRy.html)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
