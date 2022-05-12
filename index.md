@@ -3,7 +3,9 @@
 You can use the [editor on GitHub](https://github.com/ZimingHuangZH/ziminghuangzh.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 [git hub](https://github.com/ZimingHuangZH/hh)
+
 [write-up](https://github.com/ZimingHuangZH/hh/blob/main/QuantFinance-glossaRy.html)
+
 [wtite-up preview](https://htmlpreview.github.io/?https://github.com/ZimingHuangZH/hh/blob/main/QuantFinance-glossaRy.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
