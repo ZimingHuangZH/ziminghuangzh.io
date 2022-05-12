@@ -1,0 +1,3 @@
+[submodule "QuantFinance-glossaRy"]
+	path = QuantFinance-glossaRy
+	url = https://github.com/AguilarMike/QuantFinance-glossaRy.git
